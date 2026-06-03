@@ -1,16 +1,27 @@
-## Hi there 👋
+**Hi 👋 I'm Himali**
+💻 Beginner Web Developer
+🌱 Learning HTML, CSS, Bootstrap & JavaScript
+🚀 Exploring GitHub and Open Source
+🎯 Goal: Build real-world projects and improve daily
 
-<!--
-**Himali-web/Himali-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🛠 Skills**
+HTML
+CSS
+Bootstrap
+JavaScript
+Git & GitHub Basics
+Canva
 
-Here are some ideas to get you started:
+**📚 Currently Learning**
+Responsive Web Design
+Bootstrap
+JavaScript
+GitHub Workflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**✨ Projects**
+Republic Day Website 🇮🇳
+Landing Pages
+UI Practice Projects
+
+**🌟 Goal**
+To become a skilled developer by building projects consistently.
